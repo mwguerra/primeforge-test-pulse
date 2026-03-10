@@ -76,5 +76,6 @@
     </table>
 
     <p class="refresh-note">Auto-refreshes every 5 seconds</p>
+@include('partials.env-footer')
 </body>
 </html>
